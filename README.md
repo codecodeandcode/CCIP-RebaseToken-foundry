@@ -11,3 +11,4 @@ forge install OpenZeppelin/openzeppelin-contracts
 forge install smartcontractkit/chainlink-local@v0.2.5-beta.0
 forge install smartcontractkit/ccip@v2.17.0-ccip1.5.16
 ```
+# ReFiled the rpc-url in forundty.toml
